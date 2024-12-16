@@ -1,0 +1,9 @@
+name: NickSpace
+version: '${project.version}'
+main: org.dw363.nickspace.Main
+api-version: '1.21'
+prefix: NickSpace🐱
+load: STARTUP
+authors: [dw363]
+description: Плагин, скрывающий ники и отображающий их при наведении, специально для ls-sj
+website: https://github.com/Hacker123ter
